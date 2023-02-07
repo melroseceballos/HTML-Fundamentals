@@ -9,6 +9,9 @@
 
 
 ## Deliverable Requirements
+- Fork this repo
+- Clone it down, create an `index.html` and `styles.css` file inside your cloned repo.
+- Connect your `styles.css` to your `index.html`
 - Include an image of yourself
     - TIP: If you want a circular image, check out the `border-radius` CSS property...
 - Include a brief bio about yourself, 3-6 sentences. You may discuss what brought you to GA, your passions, interests, etc.
