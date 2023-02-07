@@ -4,7 +4,7 @@
 
 ## Associated Assignments
 - Read through the [Intro to GitHub markdown](https://git.generalassemb.ly/SEIR-Mariposa/Git-Fundamentals/blob/main/2.%20Intro%20to%20GitHub.md)
-- Set up your GitHub Enterprise and personal GithUb accoutn with personal access tokens ([see Installfest Step 7](https://git.generalassemb.ly/SEIR-Mariposa/Intro-to-GA/tree/main/installfest#7-github-accounts))
+- Set up your GitHub Enterprise and personal GitHub accounts with personal access tokens ([see Installfest Step 7](https://git.generalassemb.ly/SEIR-Mariposa/Intro-to-GA/tree/main/installfest#7-github-accounts))
 - Finish [Installfest](https://git.generalassemb.ly/SEIR-Mariposa/Intro-to-GA/tree/main/installfest)
 
 
