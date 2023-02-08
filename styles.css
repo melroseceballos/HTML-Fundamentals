@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+    color: white;
+    
+}
+h2 {
+    text-align: center;
+    font-size: 60px;
+    padding-top: 20px;
+    background: white;
+    color: black;
+}
+h1 { 
+    text-align: center;
+    position: relative;
+    bottom: 40px;
+}
+span {
+    font-weight: 700;
+    color: pink;
+}
+.pfp {
+   border-radius: 100%;
+   margin-left: 480px;
+   border: 10px white solid;
+   position: relative;
+   bottom: 40px;
+}
+p  {
+    text-align: center;
+    font-size: 25px;
+    position: relative;
+    bottom: 40px;
+    font-weight: 900;
+}
+ol  {
+    text-align: center;
+    list-style-position: inside;
+    font-size: 25px;
+    position: relative;
+    bottom: 40px;
+    background-color: white;
+    color: black;
+}
